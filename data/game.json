@@ -1,0 +1,12 @@
+{
+  "players": [{
+            "id": "qwerty",
+            "pseudo": "Guirito",
+            "tile": "Y"
+          },{
+            "id": "azerty",
+            "pseudo": "Nerita",
+            "tile": "Y"
+          }],
+  "board": [null]
+}
